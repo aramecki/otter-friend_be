@@ -1,0 +1,9 @@
+{
+  "id": 0,
+  "firstName": "Nome",
+  "lastName": "Cognome",
+  "birth": "1111-11-11",
+  "cardType": "red",
+  "email": "nome@email.com",
+  "password": "ciao"
+}
